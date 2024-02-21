@@ -1,0 +1,20 @@
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 700px;
+    background-color: rgb(214, 214, 252);
+}
+
+#section-login{
+    background-color: aliceblue;
+    height: 100%;
+    width: 400px;
+    border-radius: 10px;
+    border: 2px solid rgb(76, 91, 226);
+    padding: 10px 20px;
+}
+
+h2{
+    color: rgb(4, 13, 95);
+}

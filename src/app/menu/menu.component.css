@@ -1,0 +1,26 @@
+
+.example-spacer{
+  flex: 1 1 auto;
+}
+
+.mat-toolbar{
+  background-color: rgb(32, 36, 248); 
+  
+}
+
+span{
+  color: rgb(250, 250, 250);
+  padding: 10px;
+}
+  
+img{
+  display: flex;
+  height: 40px;
+  width: 40px;
+  border-radius: 5px;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}

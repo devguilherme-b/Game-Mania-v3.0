@@ -1,0 +1,60 @@
+{
+  "produtos": [
+    {
+      "id": "1",
+      "produto": "FREE FIRE",
+      "descricao": "Jogo online de sobrevivência, o objetivo é se manter vivo durante a partida, ganha aquele que derrota o último oponente.",
+      "foto": "jogo1.jpeg",
+      "preco": 2790
+    },
+    {
+      "id": "2",
+      "produto": "LEGO FORTINITE",
+      "descricao": "Jogo online de sobrevivência, o objetivo é se manter vivo durante a partida, ganha aquele que derrota o último oponente.",
+      "foto": "jogo2.jpeg",
+      "preco": 1320
+    },
+    {
+      "id": "3",
+      "produto": "EA SPORTS FC24",
+      "descricao": "Jogo online de Futebol, o objetivo é vencer o adverssário em uma partida marcando mais gols que seu oponente.",
+      "foto": "jogo3.jpeg",
+      "preco": 3120
+    },
+    {
+      "id": 4,
+      "produto": "N.O.V.A LEGACY",
+      "descricao": "Jogo online de sobrevivência no espaço. O objetivo é derrotar todos os soldados inimigos para zerar o gamer.",
+      "foto": "jogo4.jpeg",
+      "preco": 2350
+    },
+    {
+      "id": 5,
+      "produto": "GTA 6",
+      "descricao": "Versão beta do novo Grand Theft Auto 6 (GTA 6). Jogo de ação-aventura em mundo aberto.",
+      "foto": "jogo5.jpeg",
+      "preco": 3960
+    },
+    {
+      "id": 6,
+      "produto": "GTA 5",
+      "descricao": "Grand Theft Auto 5 (GTA 5). Versão original do Jogo eletrônico de ação-aventura em mundo aberto.",
+      "foto": "jogo6.jpeg",
+      "preco":2500
+    },
+    {
+      "id": 7,
+      "produto": "EFOOTBALL 24",
+      "descricao": "Jogo online de Futebol, o objetivo é vencer o adverssário em uma partida marcando mais gols que seu oponente.",
+      "foto": "jogo7.jpeg",
+      "preco": 2610
+    },
+    {
+      "id": 8,
+      "produto": "CALL of DUTY WARZONE",
+      "descricao": "Jogo online de sobrevivência, o objetivo é se manter vivo durante a partida, ganha aquele que sobrevive derrotando o último oponente.",
+      "foto": "jogo8.jpeg",
+      "preco": 4720
+    }
+  ]
+}
